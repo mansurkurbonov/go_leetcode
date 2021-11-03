@@ -6,6 +6,7 @@
 ##### 9_palindrome_number - the problem is solved
 ##### 13_roman_to_integer - the problem is solved
 ##### 26_remove_dublicates_from_sorted_array - the problem is solved
+##### 27_remove_element - the problem is solved
 
 ## ----- medium
 ##### 2_add_two_numbers - the problem is solved
