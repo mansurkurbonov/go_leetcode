@@ -1,13 +1,15 @@
 # go_leetcode
 
 
-## ----- easy
-##### 1_two_sum -  the problem is solved, but the time is not optimal
-##### 9_palindrome_number - the problem is solved
-##### 13_roman_to_integer - the problem is solved
-##### 26_remove_dublicates_from_sorted_array - the problem is solved
-##### 27_remove_element - the problem is solved
-##### 35_search_insert_position - the problem is solved
-
+## solved
+### ----- easy
+##### 1_two_sum 
+##### 9_palindrome_number 
+##### 13_roman_to_integer 
+##### 26_remove_dublicates_from_sorted_array 
+##### 27_remove_element
+##### 35_search_insert_position 
+##### 58_lenght_of_last_word 
+##### 66_plus_one
 ## ----- medium
 ##### 2_add_two_numbers - the problem is solved
