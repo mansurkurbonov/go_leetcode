@@ -11,5 +11,8 @@
 ##### 35_search_insert_position 
 ##### 58_lenght_of_last_word 
 ##### 66_plus_one
-## ----- medium
+### ----- medium
 ##### 2_add_two_numbers - the problem is solved
+
+### ----- hard
+##### 23_merge_k_sorted_list
